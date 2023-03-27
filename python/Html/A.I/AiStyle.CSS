@@ -1,0 +1,19 @@
+.Encuadregeneral {
+    background-color: red;
+    width: 800px;
+    margin: auto;
+    border-radius: 4px;
+}
+
+.cabecera {
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    background-color: blueviolet;
+    height: 50px;
+    display: inline;
+    padding: 15px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+}
